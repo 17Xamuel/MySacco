@@ -1,0 +1,26 @@
+{
+  "name": "mysacco",
+  "version": "1.0.0",
+  "description": "sacco app for web",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XamuelUG/MySacco.git"
+  },
+  "keywords": [
+    "TheSaccoApp"
+  ],
+  "author": "SamuelWekobosya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XamuelUG/MySacco/issues"
+  },
+  "homepage": "https://github.com/XamuelUG/MySacco#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
